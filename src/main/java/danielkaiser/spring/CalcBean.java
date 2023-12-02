@@ -22,6 +22,6 @@ public class CalcBean {
 
 
         final String joinedNumbers = results.stream().map(Object::toString).collect(Collectors.joining(", "));
-        return "Die Teiler sind: " + joinedNumbers + ".";
+        return "The divisors of the number are " + joinedNumbers + ".";
     }
 }
