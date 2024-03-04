@@ -11,7 +11,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Dependencies -->
-        <vaadin.version>24.2.5</vaadin.version>
+        <vaadin.version>24.3.6</vaadin.version>
         <kotlin.version>1.9.21</kotlin.version>
     </properties>
 
